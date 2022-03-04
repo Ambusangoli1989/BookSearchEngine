@@ -1,0 +1,54 @@
+PODS:
+  - AdvancedPageControl (0.9.0)
+  - Alamofire (5.5.0)
+  - IQKeyboardManagerSwift (6.5.9)
+  - lottie-ios (3.3.0)
+  - MotionToastView (0.1.10)
+  - SDWebImage (5.12.3):
+    - SDWebImage/Core (= 5.12.3)
+  - SDWebImage/Core (5.12.3)
+  - SkeletonView (1.29.2)
+  - SwiftyGif (5.4.3)
+  - Toaster (2.3.0)
+  - UICircularProgressRing (8.0.0)
+
+DEPENDENCIES:
+  - AdvancedPageControl
+  - Alamofire (~> 5.2)
+  - IQKeyboardManagerSwift
+  - lottie-ios
+  - MotionToastView
+  - SDWebImage (~> 5.0)
+  - SkeletonView
+  - SwiftyGif
+  - Toaster
+  - UICircularProgressRing
+
+SPEC REPOS:
+  trunk:
+    - AdvancedPageControl
+    - Alamofire
+    - IQKeyboardManagerSwift
+    - lottie-ios
+    - MotionToastView
+    - SDWebImage
+    - SkeletonView
+    - SwiftyGif
+    - Toaster
+    - UICircularProgressRing
+
+SPEC CHECKSUMS:
+  AdvancedPageControl: 39e3b32b00b2d324c534f8e17cc6c5be9abe84b7
+  Alamofire: 1c4fb5369c3fe93d2857c780d8bbe09f06f97e7c
+  IQKeyboardManagerSwift: 6e839c575c4aa1078d58a596e41244e77abe918f
+  lottie-ios: 6ac74dcc09904798f59b18cb3075c089d76be9ae
+  MotionToastView: e6e03c88141c2da252cce3f5c4512e76281b4754
+  SDWebImage: 53179a2dba77246efa8a9b85f5c5b21f8f43e38f
+  SkeletonView: 915a80ecc2b6421ab7ac0f0212321c0cc1406472
+  SwiftyGif: 6c3eafd0ce693cad58bb63d2b2fb9bacb8552780
+  Toaster: c3473963c78e8cabbf6ea6f11ad0fdaae6f54987
+  UICircularProgressRing: 19927375b2b21b5fa5fd9582f15ccdef9659da16
+
+PODFILE CHECKSUM: 23c5c580798ff1afd9f8b4093e3ac8df49bc9674
+
+COCOAPODS: 1.10.2
